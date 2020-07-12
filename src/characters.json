@@ -32,19 +32,19 @@
         "image": "https://www.nbcsports.com/bayarea/sites/csnbayarea/files/styles/article_hero_image/public/2018/12/24/kdsmileus.jpg?itok=451P-KiV"
     },
     {
-            "id": 9,
-            "image": "https://image-cdn.essentiallysports.com/wp-content/uploads/20200702145659/565c8d8fc2814427018b6233.jpg"
-        },
-        {
-            "id": 10,
-            "image": "https://balldurham.com/wp-content/uploads/getty-images/2017/07/1197872817.jpeg"
-        },
-        {
-            "id": 11,
-            "image": "https://i.insider.com/5ec2ed09191824076a1837e4?width=1100&format=jpeg&auto=webp"
-        },
-        {
-            "id": 12,
-            "image": "https://www.essentiallysports.com/wp-content/uploads/Paul-George-2.jpg"
-        }
-    ]
+        "id": 9,
+        "image": "https://image-cdn.essentiallysports.com/wp-content/uploads/20200702145659/565c8d8fc2814427018b6233.jpg"
+    },
+    {
+        "id": 10,
+        "image": "https://balldurham.com/wp-content/uploads/getty-images/2017/07/1197872817.jpeg"
+    },
+    {
+        "id": 11,
+        "image": "https://i.insider.com/5ec2ed09191824076a1837e4?width=1100&format=jpeg&auto=webp"
+    },
+    {
+        "id": 12,
+        "image": "https://www.essentiallysports.com/wp-content/uploads/Paul-George-2.jpg"
+    }
+]
